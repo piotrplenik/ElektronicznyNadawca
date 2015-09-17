@@ -1,4 +1,7 @@
 <?php
+
+namespace PocztaPolska/ElektronicznyNadawca;
+
 class addShipment {
   public $przesylki; // przesylkaType
   public $idBufor; // int
