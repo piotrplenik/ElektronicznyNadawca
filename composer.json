@@ -1,0 +1,11 @@
+{
+    "name": "jupeter/elektroniczny-nadawca",
+    "description": "Elektroniczny Nadawca WebAPI",
+    "authors": [
+        {
+            "name": "Piotr Plenik",
+            "email": "piotr.plenik@gmail.com"
+        }
+    ],
+    "require": {}
+}
