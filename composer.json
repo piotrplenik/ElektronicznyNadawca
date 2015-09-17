@@ -7,5 +7,10 @@
             "email": "piotr.plenik@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-0" : {
+            "PocztaPolska" : "src/"
+        }
+    }
 }
