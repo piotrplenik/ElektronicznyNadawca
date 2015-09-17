@@ -1,6 +1,6 @@
 <?php
 
-namespace PocztaPolska/ElektronicznyNadawca;
+namespace PocztaPolska\ElektronicznyNadawca;
 
 class addShipment {
   public $przesylki; // przesylkaType
