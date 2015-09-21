@@ -1694,7 +1694,7 @@ class addZalacznikDoReklamacjiResponse {
  * @copyright {copyright}
  * @package   {package}
  */
-class ElektronicznyNadawca extends SoapClient {
+class ElektronicznyNadawca extends \SoapClient {
 
   private static $classmap = array(
                                     'addShipment' => 'addShipment',

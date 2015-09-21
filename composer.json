@@ -7,10 +7,8 @@
             "email": "piotr.plenik@gmail.com"
         }
     ],
-    "require": {},
     "autoload": {
-        "psr-0" : {
-            "PocztaPolska" : "src/"
-        }
-    }
+        "classmap": ["ElektronicznyNadawca.php"]
+    },
+    "require": {}
 }
